@@ -36,3 +36,9 @@ Unzip ".\downloads\atb-install.zip" ".\downloads\atb-install"
 Exit
 ```
 When Finish Download goto folder "Download Folder"
+
+Thanks for 
+
+https://github.com/mrpond/BlockTheSpot
+
+https://github.com/amd64fox/SpotX
